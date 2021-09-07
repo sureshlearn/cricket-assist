@@ -3,11 +3,11 @@
 
 Tournament organizers can
     
-    •	Automatically publish tournament schedules to the individual teams
+    •   Automatically publish tournament schedules to the individual teams
   
 Team captains can setup
     
-    •	Match schedule reminders
-    •	Umpiring assignment reminders
+    •   Match schedule reminders
+    •   Umpiring assignment reminders
 
     
